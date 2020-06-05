@@ -1,0 +1,14 @@
+{
+  "name": "gitinit",
+  "version": "1.0.0",
+  "description": "Local repo for fun",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dibyanshu gautam",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
